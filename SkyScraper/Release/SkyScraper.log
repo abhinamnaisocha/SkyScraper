@@ -1,0 +1,26 @@
+﻿  sky.cpp
+sky.cpp(21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+sky.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+sky.cpp(139): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+sky.cpp(140): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+sky.cpp(97): warning C4101: 'r2': unreferenced local variable
+sky.cpp(97): warning C4101: 'r1': unreferenced local variable
+sky.cpp(397): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+sky.cpp(398): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+sky.cpp(435): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+sky.cpp(477): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  SkyScraper.cpp
+  stdafx.cpp
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  Generating code
+  0 of 26 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SkyScraper.vcxproj -> C:\Users\Muhammad Bilal\Documents\Visual Studio 2008\Projects\SkyScraper\Release\SkyScraper.exe
